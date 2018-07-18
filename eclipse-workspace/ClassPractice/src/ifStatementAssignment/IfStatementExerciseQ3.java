@@ -1,5 +1,7 @@
 package ifStatementAssignment;
-
+/*
+ * @author th3pi
+ */
 public class IfStatementExerciseQ3 {
 
 		public static void main(String[] args) {

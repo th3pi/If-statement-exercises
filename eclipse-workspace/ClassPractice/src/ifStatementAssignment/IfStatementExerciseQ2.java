@@ -1,4 +1,7 @@
 package ifStatementAssignment;
+/*
+ * @author th3pi
+ */
 import java.util.Scanner;
 public class IfStatementExerciseQ2 {
 

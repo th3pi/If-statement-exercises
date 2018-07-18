@@ -1,4 +1,7 @@
 package ifStatementAssignment;
+/*
+ * @author th3pi
+ */
 
 public class IfStatementExercise {
 
